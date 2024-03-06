@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <string.h>
 
+    //Escreva um programa que inverta os caracteres de um string. 
+
 void inv(char str[]){
     int i,let,ult,tam= strlen(str);
 
