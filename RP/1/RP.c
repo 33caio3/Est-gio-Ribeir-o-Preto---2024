@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+        //valor será 91
 int main(){
     int indice = 13;
     int soma= 0;
